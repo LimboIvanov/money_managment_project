@@ -1,4 +1,3 @@
-Y2_2023_03165
 # Money Management
 
 ## Introduction
