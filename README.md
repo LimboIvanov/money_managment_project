@@ -9,7 +9,8 @@ All the communication between the user and the program happens through the UI pa
 are read from a CSV file and can be added manually by the user. One important thing
 to mention is the program automatically displays and saves only expenses but not incoming
 money to the account. For example, a family wants to see spendings of all their family
-members in one diagram. Features introduced: grouping of categories manually chosen by the user, separating back
+members in one diagram. 
+Features introduced: grouping of categories manually chosen by the user, separating back
 (removing the group), ability to show the chart without rent and with, adding savings which
 will be subtracted from the least important spendings, concating multiple CSV files for a combined result,
 importance is configured by AI of the program (the more separate transactions in the category you have, 
