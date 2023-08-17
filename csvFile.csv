@@ -1,0 +1,28 @@
+Date,Category,Subcategory,Text,Amount,Balance,Status,Reconciled
+20.03.2023,Prizma,Service fees,,-9.8,990.2,Executed,No
+07.03.2023,Prizma,Groceries,,-11.4,978.8,Executed,No
+06.03.2023,Rimi,Groceries,,-5.3,973.5,Executed,No
+06.03.2023,HSL,Transport,,-56,917.5,Executed,No
+06.03.2023,Eckero,Transport,,-17,900.5,Executed,No
+07.03.2023,Finnair,Transport,,-152,748.5,Executed,No
+08.03.2023,Mobpay,Uncategorised,,-19.99,728.51,Executed,No
+09.03.2023,Electricity bill,Uncategorised,,-23.24,705.27,Executed,No
+10.03.2023,Kanniston leipomo,Restaurants,,-10.2,695.07,Executed,No
+11.03.2023,Cafetoria Aalto,Restaurants,,-10.25,684.82,Executed,No
+12.03.2023,App Store,Uncategorised,,-9.99,674.83,Executed,No
+13.03.2023,App Store,Uncategorised,,-3.99,670.84,Executed,No
+14.03.2023,App Store,Uncategorised,,-15.99,654.85,Executed,No
+15.03.2023,Prizma,Groceries,,-15.8,639.05,Executed,No
+15.04.2023,Rimi,Groceries,,-19.21,619.84,Executed,No
+15.04.2023,Selver,Groceries,,-1.99,617.85,Executed,No
+17.04.2023,Prizma,Groceries,,-2.34,615.51,Executed,No
+25.04.2023,Rent,Uncategorised,,-675,-59.49,Executed,No
+25.04.2023,Loan,Uncategorised,,-200,-259.49,Executed,No
+25.04.2023,Salary,Uncategorised,,2300,2040.51,Executed,No
+25.04.2023,Scolarship,Uncategorised,,250,2290.51,Executed,No
+07.05.2023,Transfer,Uncategorised,,-15,2275.51,Executed,No
+01.05.2023,Transfer,Uncategorised,,25,2300.51,Executed,No
+01.05.2023,App Store,Uncategorised,,-9.99,2290.52,Executed,No
+07.05.2023,H&M,Clothes & Shoes,,-19.99,2270.53,Executed,No
+09.05.2023,Lindex,Clothes & Shoes,,-25.99,2244.54,Executed,No
+09.05.2023,Arket,Clothes & Shoes,,-59.99,2184.55,Executed,No
