@@ -3,6 +3,19 @@ Y2_2023_03165
 
 ## Introduction
 
+Money management is a program which helps users to control their money flows. The
+program includes the UI part (visual diagram) where users' expenses are separated into different categories.
+All the communication between the user and the program happens through the UI part. The expenses
+are read from a CSV file and can be added manually by the user. One important thing
+to mention is the program automatically displays and saves only expenses but not incoming
+money to the account. For example, a family wants to see spendings of all their family
+members in one diagram. Features introduced: grouping of categories manually chosen by the user, separating back
+(removing the group), ability to show the chart without rent and with, adding savings which
+will be subtracted from the least important spendings, concating multiple CSV files for a combined result,
+importance is configured by AI of the program (the more separate transactions in the category you have, 
+the more important category becomes) but also the user can change the importance manually, savings can
+never be deducted from rent, loan and electricity bill (configured within the program).
+
 ## File and directory structure
 
   - the project directory is very simplistic
